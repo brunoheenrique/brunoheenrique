@@ -12,7 +12,7 @@
   <img align="center" alt="VisualStudioCode" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Flutter" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Java" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="React" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg>
+  <img align="center" alt="React" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg>
   
 </div>
   
@@ -22,7 +22,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoheenrique&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-  
   <div> 
   <a href="https://www.linkedin.com/in/bruno-henrique-silva-40a883206/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
