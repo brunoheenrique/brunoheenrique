@@ -1,12 +1,10 @@
 <div style="display: inline_block" align="center"><br>
 
-  <h1>Hi!, I'm Bruno Henrique, Future developer 👋<h1/>
-  <img align="center" alt="csharp" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
-   <img align="center" alt="Android" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
-  <img align="center" alt="TypeScrip" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="HTML5" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <h1>Hi!, I'm Bruno Henrique, Jr Mobile developer 👋<h1/>
+  <img align="center" alt="Android" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
+  <img align="center" alt="AndroidStudio" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-        original.svg">
+    <img align="center" alt="Kotlin" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons//kotlin/kotlin-plain.svg">
+  <img align="center" alt="TypeScript" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Chrome" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg">
   <img align="center" alt="Git" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">   
   <img align="center" alt="VisualStudioCode" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
@@ -23,9 +21,9 @@
 
   <div> 
   <a href="https://www.linkedin.com/in/bruno-henrique-silva-40a883206/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/-Kotlin-blueviolet)">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/AS-Android%20Studio-9cf">
+  <img src="https://img.shields.io/badge/-Android%20-brightgreen">
  
 </div>
