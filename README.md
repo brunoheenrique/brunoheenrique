@@ -3,14 +3,14 @@
   <h1>Hi!, I'm Bruno Henrique, Jr Mobile developer 👋<h1/>
   <img align="center" alt="Android" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
   <img align="center" alt="AndroidStudio" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg">
-    <img align="center" alt="Kotlin" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons//kotlin/kotlin-plain.svg">
-  <img align="center" alt="TypeScript" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Chrome" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg">
-  <img align="center" alt="Git" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">   
+  <img align="center" alt="Kotlin" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons//kotlin/kotlin-plain.svg">
+  <img align="center" alt="Java" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Git" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img align="center" alt="TypeScript" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"> 
   <img align="center" alt="VisualStudioCode" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Flutter" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Java" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-  
+  <img align="center" alt="Chrome" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg">
+    
 </div>
   
 <div>
