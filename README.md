@@ -20,7 +20,7 @@
 </div>
 
   <div> 
-  <img src="https://img.shields.io/badge/-Kotlin-blueviolet)">
+  <img src="https://img.shields.io/badge/-Kotlin-purple)">
   <img src="https://img.shields.io/badge/AS-Android%20Studio-9cf">
   <img src="https://img.shields.io/badge/-Android%20-brightgreen">
   <a href="https://www.linkedin.com/in/bruno-henrique-silva-40a883206/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-   badge&logo=linkedin&logoColor=white" target="_blank"></a>
